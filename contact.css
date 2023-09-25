@@ -1,0 +1,25 @@
+.contact-contant{
+     height: 100vh;
+    background-color: rgb(183, 183, 216);
+    display: flex;
+    position: relative;
+    overflow: hidden;
+}
+.contact-contant::after{
+    content: "";
+    
+    position: absolute;
+    width: 100%;
+    height: inherit;
+    opacity: 0.20;
+    /* border-radius: 10px; */
+}
+.contact-form{
+    /* padding: 20px; */
+    margin: 0 120px;
+    /* background-color: rgb(196, 210, 169); */
+    /* margin-bottom: 150px; */
+    margin-bottom: 10px;
+    margin-top: 10px;
+
+}

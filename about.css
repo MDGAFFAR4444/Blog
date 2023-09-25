@@ -1,0 +1,20 @@
+.footer_about {
+    height: 50px;
+    background-color: rgb(215, 192, 236);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    flex-direction: column;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+
+    
+}
+
+.footer_about a {
+    text-decoration: none;
+    color: black;
+
+}

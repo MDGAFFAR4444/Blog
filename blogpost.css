@@ -1,0 +1,41 @@
+.post-img{
+    height: 404px;
+    overflow: hidden;   
+}
+.post-img img{
+    width: 100%;
+}
+.block-post-content{
+    background-color:rgb(221, 232, 221) ;
+    padding: 50px;
+}
+.block-post-content h1{
+    text-align: center;
+}
+.block-post-content p {
+    font-size: 20px;
+}
+.footer1{
+    width: 100%;
+    background-color: rgb(215, 192, 236);
+    text-align: center;
+    height: 60px;
+    text-decoration: none;
+    color: black;
+    
+}
+.footer1 a {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    
+}
+.row{
+    display: flex;
+}
+.more-post{
+    flex-direction: column;
+}
+.more-post h2{
+    text-align: center;
+}
